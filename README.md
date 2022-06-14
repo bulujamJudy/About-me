@@ -10,6 +10,8 @@ Hi! I'm Judy (She/Her), a 16-year-old designer/artist/developer(still learning!)
 
 ## Project
 **Website**
+- 🌊 [Laugh Against the Climate Change](https://readymag.com/u4260642248/3729459/)
+  - An interactive persuasive website for raising climate change awareness. Not compatible with mobile, best recommend resolution: 1080 x 576 px. Made with Readymag, built in a day.
 - 🏓 [pong game](https://bulujamjudy.github.io/pong/)
   - Yeah this must be the very first javascript game for everyone. Made with HTML/CSS/JS.
 - 🪄 [witches fight](bulujamjudy.github.io/witchesfight)
