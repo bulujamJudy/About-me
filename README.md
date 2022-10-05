@@ -23,6 +23,10 @@ Hi! I'm Judy (She/Her), a 16-year-old designer/artist/developer(still learning!)
 - 🐙 [WoahArt company](https://www.figma.com/proto/KoDR4adk46fXsExYzrkyaU/woohart-app?node-id=0%3A1)
   - A fabricated design suggesting people can break the communication barrier via art. Designed with figma and Clip Studio Paint.
 
+**AI deployment**
+- 📑[Article Inker](https://github.com/bulujamJudy/article-inker)
+  - An AI text generator based on given prompt and genre chosen
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulujamjudy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My social media:
