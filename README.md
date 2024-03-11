@@ -6,10 +6,12 @@ Hi! I'm Judy (She/Her), an 18-year-old designer/artist/developer(still learning!
 - start analyzing the user interface using any app
 - write something excitedly on a little notebook at a random moment (🎆 of inspiration)
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,ts,blender,codepen,figma,github,ai,ps,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,ts,blender,codepen,figma,github,ai,ps,vscode,unity)](https://skillicons.dev)
 
 ## Project
 **Website**
+- 🗺️ [The Map of my Home](https://mapofmyhomejudy.netlify.app/)
+  - UCB Spr24 Art 8 project, interactive website to present the journey map.
 - 🤱.[Women Abortion right](https://bulujamjudy.github.io/abortion-rights/)
   - An activity toolkit website build during .[GWC](https://girlswhocode.com/programs/summer-immersion-program) Summer Programs
 - 🌊 [Laugh Against the Climate Change](https://readymag.com/u4260642248/3729459/)
