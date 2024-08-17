@@ -10,6 +10,7 @@ Hi! I'm Judy (She/Her), an 18-year-old designer/artist/developer(still learning!
 
 ## Project
 **Website**
+- 🍜 [Refamilarization: How to Eat](https://readymag.website/u1633524608/How2Eat/) Final project in ART 23AC. Interactive educational website to teach anyone to eat from scratch. Made with Readymag, built in two days.
 - 🗺️ [The Map of my Home](https://mapofmyhomejudy.netlify.app/)
   - UCB Spr24 Art 8 project, interactive website to present the journey map.
 - 🤱.[Women Abortion right](https://bulujamjudy.github.io/abortion-rights/)
